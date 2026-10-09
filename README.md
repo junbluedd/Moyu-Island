@@ -9,10 +9,12 @@
 界面预览：
 ![image](https://github.com/junbluedd/Moyu-Island/blob/main/docs/screenshot.png)
 
+以下内容瞎编的
+
 ## 快速开始
 
 1. 运行 `Moyu Island.exe`（免安装，拷到哪儿都能跑）
-2. 点左下角 **🍪 饼干** → 导入你的饼干
+2. 点设置 **🍪 饼干** → 导入你的饼干
 
 
    * 也可以直接粘贴 `userhash` 值
@@ -94,6 +96,5 @@
 
 ## 已知问题
 
-* 发图有问题？或许是岛服务器问题？
 * 没有在其他电脑上测试，稳定性能待定
-* bug测试待定，欢迎反馈到x岛或者github
+* bug找寻中，欢迎反馈到x岛或者github

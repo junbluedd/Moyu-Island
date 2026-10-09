@@ -1,12 +1,13 @@
 # Moyu Island 摸鱼岛
 
-**x岛三方pc端** — X岛（nmbxd.com）的 Windows 桌面客户端，由dsh大肥鱼自动编写，本人监督改了10轮bug，连这个都是dsh总结的（。
+**x岛三方pc端** — X岛（nmbxd.com）的 Windows 桌面客户端，由dsh大肥鱼自动编写，软件占用极小，体积不到1M，方便随身携带。
 
 用 .NET 8 + WPF 写的原生客户端，界面比网页版更适合长时间刷岛：三栏布局、
 累积式翻页、一键发串、饼干多身份管理。
 
-[摸鱼岛下载](https://github.com/junbluedd/Moyu-Island/releases/tag/main "下载")
+**[摸鱼岛下载](https://github.com/junbluedd/Moyu-Island/releases/tag/main "下载")**
 
+界面预览：
 ![image](https://github.com/junbluedd/Moyu-Island/blob/main/docs/screenshot.png)
 
 ## 快速开始

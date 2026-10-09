@@ -4,7 +4,7 @@
 
 用 .NET 8 + WPF 写的原生客户端，界面比网页版更适合长时间刷岛：三栏布局、表情、roll 点、防剧透、夜间模式、历史、草稿、订阅、累积式翻页、一键发串、饼干多身份管理。
 
-**[摸鱼岛下载](https://github.com/junbluedd/Moyu-Island/releases/tag/main "下载")**
+# **[摸鱼岛下载](https://github.com/junbluedd/Moyu-Island/releases/tag/main "下载")**
 
 界面预览：
 ![image](https://github.com/junbluedd/Moyu-Island/blob/main/docs/screenshot.png)

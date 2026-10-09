@@ -7,8 +7,7 @@
 
 [摸鱼岛下载](https://github.com/junbluedd/Moyu-Island/releases/tag/main "下载")
 
-
-\---
+![image](https://github.com/junbluedd/Moyu-Island/blob/main/docs/screenshot.png)
 
 ## 快速开始
 
